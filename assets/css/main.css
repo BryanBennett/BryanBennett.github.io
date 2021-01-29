@@ -2356,7 +2356,7 @@ input, select, textarea {
 
 		select option {
 			color: #ffffff;
-			background: #312450;
+			background: #031f52;
 		}
 
 		select:focus::-ms-value {
@@ -3252,15 +3252,15 @@ input, select, textarea {
 		}
 
 		.wrapper.style2-alt {
-			background-color: #3e4094;
+			background-color: #03556e;
 		}
 
 		.wrapper.style3 {
-			background-color: #22acd6;
+			background-color: #1a9bc2;
 		}
 
 		.wrapper.style3-alt {
-			background-color: #1abc9c;
+			background-color: #034357;
 		}
 
 		.wrapper.fullscreen {
