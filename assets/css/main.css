@@ -3241,7 +3241,7 @@ input, select, textarea {
 
 		.wrapper.style1 {
 			background-color: #0c707b;
-			opacity: 0.95; /*I changed this, experiment*/
+			opacity: 0.90; /*I changed this, experiment*/
 		}
 
 		.wrapper.style1-alt {
